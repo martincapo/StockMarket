@@ -1,0 +1,22 @@
+{
+  "name": "stockmarket",
+  "version": "1.0.0",
+  "description": "Practice solving word problems by developing looping and calculation algorithms that work with data in an array format.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martincapo/StockMarket.git"
+  },
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martincapo/StockMarket/issues"
+  },
+  "homepage": "https://github.com/martincapo/StockMarket#readme"
+}
